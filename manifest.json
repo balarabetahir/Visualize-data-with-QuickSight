@@ -1,0 +1,15 @@
+{
+   "fileLocations": [
+       {
+           "URIs": [
+               "s3://groot279-quicksight-cyberchef-201/netflix_titles.csv"
+           ]
+       }
+   ],
+   "globalUploadSettings": {
+       "format": "CSV",
+       "delimiter": ",",
+       "textqualifier": "\"",
+       "containsHeader": "true"
+   }
+}
